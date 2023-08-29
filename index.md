@@ -7,3 +7,9 @@ s = "Hello World!"
 a = s.split(' ')
 print(a[0] + ' ' + a[1])
 ```
+# To do list
+- [x] Buy milk
+- [ ] Buy eggs
+- [x] Make a burger
+- [x] Make a salad
+- [ ] Invite friends 
